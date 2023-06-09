@@ -1,1 +1,1 @@
-the README file at the root directory alx-zero_day updated
+the README is up to date now
